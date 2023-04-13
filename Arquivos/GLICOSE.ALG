@@ -9,7 +9,7 @@ Inicio
    escreva("Digite a medida da glicose: ")
    leia(glicose)
    
-   se glicose <= 100 então
+   se glicose <= 100 entÃ£o
       escreva("Classificacao: normal")
    senao
       se glicose <= 140 entao
