@@ -17,6 +17,6 @@ Inicio
       valor_total <- area * valor_metro
       
       escreval("Area do terreno = ", area:8:2)
-      escreval("Preço do terreno = ", valor_total:8:2)
+      escreval("PreÃ§o do terreno = ", valor_total:8:2)
       
 Fimalgoritmo
