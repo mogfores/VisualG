@@ -7,12 +7,12 @@ Var
 
 Inicio
 
-   escreva("CÛdigo do produto comprado: ")
+   escreva("C√≥digo do produto comprado: ")
    leia(codigo)
    escreva("Quantidade comprada: ")
    leia(quantidade)
    
-   se codigo = 1 ent„o
+   se codigo = 1 ent√£o
       valor <- 5.00 * quantidade
       escreva("Valor a pagar: R$", valor:4:2)
    senao
