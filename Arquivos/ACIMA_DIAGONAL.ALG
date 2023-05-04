@@ -19,10 +19,8 @@ Inicio
    
    soma <- 0
    para i de 0 ate n-1 faca
-      para j de 0 ate n-1 faca
-         se mat[i] < mat[j] entao
-            soma <- soma + mat[i,j]
-         fimse
+      para j de i + 1 ate n-1 faca
+         soma <- soma + mat[i,j]
       fimpara
    fimpara
 
